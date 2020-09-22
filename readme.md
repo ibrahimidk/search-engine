@@ -13,6 +13,7 @@
 		Run/compile:
 			calling the method Slowwrite with input (file_name,directory_name)
 
-####	2)IndexReader.py:this class reads the data from the files that we created in the class above and it returns specific data according to
-			the function that was called(all function have comments about what they are doing)
+####	2)IndexReader.py:
+		this class reads the data from the files that we created in the class above and it returns specific data according to
+		the function that was called(all function have comments about what they are doing)
 
