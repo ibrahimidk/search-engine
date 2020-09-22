@@ -1,7 +1,5 @@
 # Search Engine
-##Created by:
-##	1) Montaser Jafrah 316367838
-##	2) Ibrahim Idkedek 205860968
+## Created by: Ibrahim Idkedek, Montaser Jafrah
 
 ### In this project there is two classes :
 ####	1)IndexWriter.py:
